@@ -31,7 +31,7 @@
 ```python
 import pandas as pd
 
-url = 'https://raw.githubusercontent.com/사용자명/저장소명/브랜치명/obesity_clustering.csv'
+url = 'https://raw.githubusercontent.com/thiskorea81/2026dc_test2/main/obesity_clustering.csv'
 df = pd.read_csv(url)
 df.head()
 ```
